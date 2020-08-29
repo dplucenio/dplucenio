@@ -9,27 +9,3 @@
 
 
 I am a mechanical engineer who has been working with software development and numerical models for the last 10 years. I'm currently working my way through on how to combine scientific computing with software engineering best practices and studying web development.
-
-### 👨🏻‍🔬 Math/Engineering related repos:
-
-- a
-- b
-
-### 👨🏻‍💻 Web development related repos:
-
-
-
-<!--
-**dplucenio/dplucenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
