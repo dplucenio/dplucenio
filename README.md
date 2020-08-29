@@ -7,8 +7,12 @@
   <img src="dplucenio.gif" alt="animated" />
 </p>
 
+### 👨🏻‍🔬 Math/Engineering related repos:
 
-I am a mechanical engineer who has been working with software development and numerical models for the last 9 years. I'm currently working my way through combining scientific computing and web development with software engineering best practices
+### 👨🏻‍💻 Web development related repos:
+
+
+I am a mechanical engineer who has been working with software development and numerical models for the last 10 years. I'm currently working my way through web development and how to combine scientific computing with software engineering best practices.
 
 <!--
 **dplucenio/dplucenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
