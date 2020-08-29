@@ -1,6 +1,6 @@
 # Daniel Plucenio
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Plucenio-2b2b65?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dplucenio//)](https://www.linkedin.com/in/dplucenio/) 
-[![Gmail Badge](https://img.shields.io/badge/-dplucenio@gmail.com-2b2b65?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dplucenio@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Plucenio-3f3f74?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dplucenio//)](https://www.linkedin.com/in/dplucenio/) 
+[![Gmail Badge](https://img.shields.io/badge/-dplucenio@gmail.com-3f3f74?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dplucenio@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 <p align="center">
   <img src="dplucenio.gif" alt="animated" />
