@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dplucenio@gmail.com-3f3f74?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dplucenio@gmail.com)](mailto:dplucenio@gmail.com)
 
 <p align="center">
-  <img src="dplucenio.gif" alt="animated" />
+  <img src="./dplucenio.gif" alt="animated" />
 </p>
 
 
