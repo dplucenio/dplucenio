@@ -1,4 +1,11 @@
-### Hi there 👋
+# Daniel Plucenio
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Plucenio-2b2b65?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dplucenio//)](https://www.linkedin.com/in/dplucenio/) 
+[![Gmail Badge](https://img.shields.io/badge/-dplucenio@gmail.com-2b2b65?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dplucenio@gmail.com)](mailto:diego.schell.f@gmail.com)
+
+<p align="center">
+  <img src="dplucenio.gif" alt="animated" />
+</p>
+
 
 <!--
 **dplucenio/dplucenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
